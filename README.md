@@ -29,6 +29,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Next](https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=Next.js)
 ![Nx](https://img.shields.io/badge/-Nx-090909?style=for-the-badge&logo=Nx)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![Tilda](https://img.shields.io/badge/-Tilda-090909?style=for-the-badge&logo=Tilda)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![Payload](https://img.shields.io/badge/-Payload-090909?style=for-the-badge&logo=Payload)
+![Backendless](https://img.shields.io/badge/-Backendless-090909?style=for-the-badge&logo=Backendless)
 
 
 
