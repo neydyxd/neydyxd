@@ -31,7 +31,7 @@
 ![Nx](https://img.shields.io/badge/-Nx-090909?style=for-the-badge&logo=Nx)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Tilda](https://img.shields.io/badge/-Tilda-090909?style=for-the-badge&logo=Tilda)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![Taplink](https://img.shields.io/badge/-Taplink-090909?style=for-the-badge&logo=Taplink)
 ![Payload](https://img.shields.io/badge/-Payload-090909?style=for-the-badge&logo=Payloadcms)
 ![Backendless](https://img.shields.io/badge/-Backendless-090909?style=for-the-badge&logo=Backendless)
 
