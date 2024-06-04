@@ -27,6 +27,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
+![Next](https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=Next)
+
 
 
 
