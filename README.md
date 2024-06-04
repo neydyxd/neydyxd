@@ -32,7 +32,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Tilda](https://img.shields.io/badge/-Tilda-090909?style=for-the-badge&logo=Tilda)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![Payload](https://img.shields.io/badge/-Payload-090909?style=for-the-badge&logo=Payload)
+![Payload](https://img.shields.io/badge/-Payload-090909?style=for-the-badge&logo=Payloadcms)
 ![Backendless](https://img.shields.io/badge/-Backendless-090909?style=for-the-badge&logo=Backendless)
 
 
