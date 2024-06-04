@@ -26,6 +26,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
+![Docker](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Docker)
+
 
 
 
